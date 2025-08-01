@@ -1,0 +1,14 @@
+#sidebar.collapsed {
+  width: 70px;
+  transition: width 0.3s;
+}
+#sidebar.collapsed .nav-link span,
+#sidebar.collapsed h4,
+#sidebar.collapsed hr,
+#sidebar.collapsed .btn {
+  display: none;
+}
+#sidebar {
+  width: 220px;
+  transition: width 0.3s;
+}

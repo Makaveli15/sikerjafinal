@@ -1,0 +1,38 @@
+<table border='1'>
+  <tr>
+    <th>No</th>
+    <th>Nama Kegiatan</th>
+    <th>KRO</th>
+    <th>Detail Kegiatan</th>
+    <th>Penyerapan</th>
+    <th>Progres</th>
+    <th>PIC</th>
+    <th>Kendala</th>
+    <th>Solusi</th>
+    <th>Tindak Lanjut</th>
+    <th>Batas Waktu</th>
+  </tr><tr>
+    <td>1</td>
+    <td>ssasas</td>
+    <td>2897.BMA.004</td>
+    <td>asasas</td>
+    <td>32232.00</td>
+    <td>30</td>
+    <td>IPDS</td>
+    <td>fsfsf</td>
+    <td>fsdfsdfs</td>
+    <td>sdfdsf</td>
+    <td>2025-07-26</td>
+  </tr><tr>
+    <td>2</td>
+    <td>fsdfsdfsfdsf</td>
+    <td>2896.BMA.004</td>
+    <td>sfdsfdssds</td>
+    <td>22222.00</td>
+    <td>6</td>
+    <td>IPDS</td>
+    <td>sdfsdfsf</td>
+    <td>fssdfsdf</td>
+    <td>fsfsf</td>
+    <td>2025-07-25</td>
+  </tr></table>
